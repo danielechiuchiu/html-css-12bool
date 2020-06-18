@@ -1,0 +1,8 @@
+[class^="col-"] {
+  background-color: lightblue;
+  border: solid 0.5px black;
+  float: left;
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+}
